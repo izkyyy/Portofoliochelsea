@@ -1,0 +1,63 @@
+ .aboute img {
+    height: 140px;
+    width: 140px;
+    border-radius: 10%;
+    margin: 8px;
+}
+.aboute{
+  display: flex;
+  padding: 20px;
+}
+.home{
+    background: yellowgreen;
+    width: px;
+    border-radius: %;
+
+}
+.aboute h5{
+    padding: 20px;
+}
+.btn{
+    top: 10px;
+}
+.nav{
+    background: grey;
+    padding: 10px;
+    width: px;
+    border-radius: %;
+}
+.pendidikan img{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+}
+.card {
+    background: yellowgreen;
+    width: 120px;
+    padding: 10px;
+    border-radius: %;
+    margin: 2px;
+}
+.pendidikan{
+    display: flex;
+}
+.container{
+    width:100%;
+  margin:auto;
+  overflow:hidden;
+}
+.bio{
+    background: yellowgreen;
+    border-radius: %;
+    padding: 20px;
+}
+.skl img{
+  width: 120px;
+  border-radius: ;
+}
+.skl{
+  background: yellowgreen;
+  width: 120px;
+  padding: 10px;
+  border-radius: %;
+  margin: 2px;
